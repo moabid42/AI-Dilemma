@@ -6,6 +6,7 @@
 - [x] Methodology chapter added and integrated (2026-03-08)
 - [x] Red-team and blue-team source base curated with verified links in `paper/sources.bib` (2026-03-08)
 - [x] Source synthesis and drafting plan documented in `notes/sources.md` (2026-03-08)
+- [x] Red Teaming chapter expanded with Crescendo/salami-slicing finding and screenshot placeholders (2026-03-08)
 
 ## In Progress
 

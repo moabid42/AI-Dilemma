@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Security Paper Assistant"
+  short_description: "Deep thesis drafting for AI security"
+  default_prompt: "Use $ai-security-paper-assistant to draft and critically improve my AI security thesis chapters with strong citations and direct Typst edits."

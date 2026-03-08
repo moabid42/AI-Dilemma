@@ -1,0 +1,66 @@
+# ----------------------------
+# Typst build outputs
+# ----------------------------
+# Common output formats
+*.pdf
+
+# If you export images/bundles
+*.html
+
+# If you use a dedicated output/build dir, ignore it:
+out/
+build/
+dist/
+
+# Typst cache (if present depending on workflow/tools)
+.typst/
+.typst-cache/
+.cache/
+tmp/
+
+# ----------------------------
+# OS junk files
+# ----------------------------
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# ----------------------------
+# Editor / IDE files
+# ----------------------------
+# VS Code
+.vscode/
+*.code-workspace
+
+# JetBrains
+.idea/
+*.iml
+
+# Vim
+*.swp
+*.swo
+
+# Emacs
+\#*\#
+.\#*
+
+# ----------------------------
+# Logs
+# ----------------------------
+*.log
+
+# ----------------------------
+# Optional: ignore local env/config
+# ----------------------------
+.env
+.env.*

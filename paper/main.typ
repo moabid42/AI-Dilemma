@@ -20,12 +20,12 @@
   university-short: "DHBW",
 )
 
-#include "content/01-introduction.typ"
-#include "content/02-background-work.typ"
-#include "content/03-methodology.typ"
-#include "content/04-red-teaming.typ"
-#include "content/05-blue-teaming.typ"
-#include "content/06-final-solution.typ"
-#include "content/07-contributions.typ"
-#include "content/08-open-research-questions.typ"
-#include "content/09-conclusion.typ"
+#include "content/chapters/01-introduction/index.typ"
+#include "content/chapters/02-background-work/index.typ"
+#include "content/chapters/03-methodology/index.typ"
+#include "content/chapters/04-red-teaming/index.typ"
+#include "content/chapters/05-blue-teaming/index.typ"
+#include "content/chapters/06-final-solution/index.typ"
+#include "content/chapters/07-contributions/index.typ"
+#include "content/chapters/08-open-research-questions/index.typ"
+#include "content/chapters/09-conclusion/index.typ"

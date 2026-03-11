@@ -2,7 +2,7 @@
 
 = Background Work
 
-This section provides the theoretical and practical baseline required for the red/blue analysis. To keep the discussion focused and reproducible, the background is divided into four parts.
+This section provides the theoretical and practical baseline required for the red/blue analysis. To keep the discussion focused and reproducible, the background is divided into five parts.
 
 #include "01-foundations-of-llm-security.typ"
 #include "02-threat-landscape-for-ai-applications.typ"
